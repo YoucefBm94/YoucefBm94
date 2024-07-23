@@ -17,63 +17,21 @@ I am a highly skilled Mobile Developer with over 2 years of experience in develo
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages and Tools:
+
 
 - **Programming Languages:** Java, Python, Dart
 - **Mobile Development:** Flutter
 - **Databases:** SQL, MongoDB, Firebase
 - **Tools and Technologies:** Git, GitHub, Visual Studio Code
 
----
-
-### 📚 Education
-
-**Master in Information Systems and Web Technologies**
-- Université de Constantine 2 (2021 - 2023)
-- Relevant Courses: Advanced Information Systems Design, Advanced Web Application Development, Information Security
-
-**Bachelor in Information Systems**
-- Université de Constantine 2 (2018 - 2021)
-- Relevant Courses: Programming, Databases, Computer Networks
 
 ---
 
-### 🌐 Projects
 
-**Project Name**
-- Brief description of the project.
-- Technologies used: Flutter, Dart, Firebase, etc.
-- [GitHub Repository](#)
-
-**Project Name**
-- Brief description of the project.
-- Technologies used: Flutter, Dart, Firebase, etc.
-- [GitHub Repository](#)
-
----
-
-### 🌍 Languages
-
-- **French:** Intermediate
-- **English:** Intermediate
-- **Arabic:** Advanced
-
----
 
 ### 📞 Contact
 
 - **Email:** youcef.boumezaar@gmail.com
 - **LinkedIn:** [Youcef Boumezaar](https://www.linkedin.com/in/youcef-boumezaar/)
 
----
-
-### 🎯 Interests
-
-- **Sports:** Swimming, Football
-- **Volunteering:** Active participation in a local association
-
----
-
-### 📝 References
-
-Available upon request.
