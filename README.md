@@ -15,10 +15,6 @@ Welcome to my portfolio! I'm a **Software Engineer** specializing in **Mobile De
 - **Version Control:** Git, GitHub
 - **Other Tools:** Gradle, go_router, BLoC pattern
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
 ## 📫 Get In Touch
 
 - **Email:** youcef.boumezaar@gmail.com
