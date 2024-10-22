@@ -14,6 +14,10 @@ Welcome to my portfolio! I'm a **Software Engineer** specializing in **Mobile De
 - **Frameworks:** Flutter
 - **Version Control:** Git, GitHub
 - **Other Tools:** Gradle, go_router, BLoC pattern
+- 
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoucefBm94&show_icons=true&theme=radical)
 
 ## 📫 Get In Touch
 
